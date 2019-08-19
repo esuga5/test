@@ -1,0 +1,15 @@
+package jp.co.intrnous.action;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		int total = gokei();
+		System.out.println(gokei2(2,3));
+	}
+
+	public static int gokei2(int number1, int number2) {
+		return number1 + number2;
+	}
+
+}

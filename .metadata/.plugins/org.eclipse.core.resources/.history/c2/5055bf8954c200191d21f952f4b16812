@@ -1,0 +1,10 @@
+package jp.co.intrnous.action;
+
+public class HumanAddress {
+
+	public String getAddress(){
+		address="東京";
+		return address;
+	}
+
+}

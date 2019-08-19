@@ -1,0 +1,14 @@
+package jp.co.intrnous.action;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		System.out.println(hankei(5));
+	}
+
+	public static double circle(int hankei) {
+		return hankei * hankei * 3.14;
+	}
+
+}
