@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;CheckLoaJDBC&apos; を &apos;CheckLoadJDBC&apos; に名前変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;TestDB&apos;&#x0D;&#x0A;- オリジナル要素: &apos;CheckLoaJDBC&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;CheckLoadJDBC&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;CheckLoaJDBC&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{CheckLoaJDBC.java[CheckLoaJDBC" matchStrategy="1" name="CheckLoadJDBC" qualified="false" references="true" similarDeclarations="false" stamp="1566283178170" textual="false" version="1.0"/>
+</session>
