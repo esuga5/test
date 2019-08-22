@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;HelloJSP/WebContent/greenting-out.jsp&apos; を &apos;greeting-out.jsp&apos; に変更します" description="リソース &apos;greenting-out.jsp&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/greenting-out.jsp" name="greeting-out.jsp" stamp="1566451370630" updateReferences="true"/>
+</session>
