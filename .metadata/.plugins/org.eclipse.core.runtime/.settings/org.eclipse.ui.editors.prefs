@@ -11,4 +11,3 @@ printMargin=true
 printMarginColumn=120
 pydevOccurrenceIndicationColor=97,97,97
 quickdiff.defaultProvider=org.eclipse.egit.ui.internal.decorators.GitQuickDiffProvider
-spellingEnabled=false
