@@ -1,13 +1,5 @@
-Double\ quoted\ string=0,0,0,0,0,255,205,139
-Identifier=0,0,0,0,0,135,206,250
-Keyword=0,0,0,0,0,128,139,237
-Multi-line\ comment=0,0,0,0,0,205,139,0
-Others=0,0,0,0,0,207,191,173
 PreferenceConstants.EXECUTE_SQL_ERROR_MODE=PreferenceConstants.PROMPT_MODE_ALWAYS
 SQLEditor.executeSelectedSQL.betweenDelimiter.delimiterType=go
-Single\ quoted\ string=0,0,0,0,0,255,205,139
-Single-line\ comment=0,0,0,0,0,205,139,0
-Type=0,0,0,0,0,135,206,250
 eclipse.preferences.version=1
 \u305D\u306E\u4ED6=0,0,0,0,1,0,0,0
 \u30AD\u30FC\u30EF\u30FC\u30C9=1,0,0,0,0,127,0,85

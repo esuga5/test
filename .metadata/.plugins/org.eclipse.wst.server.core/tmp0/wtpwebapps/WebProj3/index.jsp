@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-    <%@ taglib uri="/struts-tags" prefix="s" %>
+	pageEncoding="UTF-8"%>
+<%@ taglib uri="/struts-tags" prefix="s"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -9,9 +9,17 @@
 </head>
 <body>
 
-<s:form action="HelloStrutsAction">
-<s:submit value="HelloStruts"/>
-</s:form>
+	<s:form action="HelloStrutsAction">
+		<s:submit value="HelloStruts"/>
+	</s:form>
+
+	<s:form action="WelcomeAction">
+	<s:submit value="Welcome"/>
+	</s:form>
+
+	<s:form action="InquiryAction">
+	<s:submit value="問い合わせ"/>
+	</s:form>
 
 </body>
 </html>
