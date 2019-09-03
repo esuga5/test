@@ -33,3 +33,5 @@ public class HelloStrutsAction extends ActionSupport{
 		HelloStrutsDTOList=helloStrutsDTOList;
 	}
 }
+
+
