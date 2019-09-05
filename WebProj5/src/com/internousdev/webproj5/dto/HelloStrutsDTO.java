@@ -1,5 +1,4 @@
-package com.internousdev.webproj4.dto;
-
+package com.internousdev.webproj5.dto;
 
 
 public class HelloStrutsDTO {

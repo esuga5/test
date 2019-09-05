@@ -1,9 +1,0 @@
-127.0.0.1 - - [03/Sep/2019:17:17:47 +0900] "GET / HTTP/1.1" 404 1019
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:17:50 +0900] "GET /WebProj4/ HTTP/1.1" 200 2160
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:18:05 +0900] "GET /WebProj4/TestAction.action?username=jj&password=111 HTTP/1.1" 200 410
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:18:12 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 410
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:18:18 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 409
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:18:24 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 409
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:18:37 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 456
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:18:47 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 416
-0:0:0:0:0:0:0:1 - - [03/Sep/2019:17:19:06 +0900] "POST /WebProj4/TestAction.action HTTP/1.1" 200 409
