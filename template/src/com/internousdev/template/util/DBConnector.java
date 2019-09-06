@@ -1,4 +1,4 @@
-package com.internousdev.webproj5.util;
+package com.internousdev.template.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ public class DBConnector {
 
 private static String driverName="com.mysql.jdbc.Driver";
 
-private static String url="jdbc:mysql://localhost/testdb44";
+private static String url="jdbc:mysql://localhost/template";
 
 private static String user="root";
 
