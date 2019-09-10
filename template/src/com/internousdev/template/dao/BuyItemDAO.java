@@ -22,7 +22,7 @@ public class BuyItemDAO {
 
 			if(rs.next()){
 				buyItemDTO.setId(rs.getInt("id"));
-				buyItemDTO.setItemName(rs.getString("item_price"));
+				buyItemDTO.setItemName(rs.getString("item_name"));
 				buyItemDTO.setItemPrice(rs.getString("item_price"));
 				}
 
