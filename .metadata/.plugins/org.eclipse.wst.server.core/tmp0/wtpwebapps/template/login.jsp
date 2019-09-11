@@ -20,6 +20,7 @@
 		<s:form action="LoginAction">
 			<s:textfield name="loginUserId"/>
 			<s:password name="loginPassword"/>
+			<!-- ここで入力されたものがActionに -->
 			<s:submit value="ログイン"/>
 		</s:form>
 		<br/>

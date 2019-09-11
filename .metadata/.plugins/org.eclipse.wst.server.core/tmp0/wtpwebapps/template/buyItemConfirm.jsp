@@ -14,7 +14,7 @@
 </div>
 <div id="main">
 	<div id="top">
-		<p>BuyItemComfirm</p>
+		<p>BuyItemConfirm</p>
 	</div>
 	<div>
 		<s:form action="BuyItemConfirmAction">
@@ -44,7 +44,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td><s:submit value="完了"/>
+					<td><s:submit value="完了"/></td>
 				</tr>
 
 			</table>

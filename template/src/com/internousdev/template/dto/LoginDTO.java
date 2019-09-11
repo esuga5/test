@@ -5,6 +5,7 @@ public class LoginDTO {
 	private String loginPassword;
 	private String userName;
 	private boolean loginFlg=false;
+//	Flgの初期値をfalseにしておく
 
 	public String getLoginId(){
 		return loginId;
