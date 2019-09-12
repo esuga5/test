@@ -27,6 +27,7 @@
 					<td>値段</td>
 					<td>
 					<s:property value="session.buyItem_price"/>
+					<!-- 合計額 -->
 					<span>円</span>
 					</td>
 				</tr>
