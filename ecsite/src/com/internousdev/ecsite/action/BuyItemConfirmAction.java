@@ -25,7 +25,7 @@ public class BuyItemConfirmAction extends ActionSupport implements SessionAware{
 		return result;
 	}
 	public Map<String,Object>getSession(){
-		return session;
+		return this.session;
 	}
 	@Override
 	public void setSession(Map<String,Object>session){

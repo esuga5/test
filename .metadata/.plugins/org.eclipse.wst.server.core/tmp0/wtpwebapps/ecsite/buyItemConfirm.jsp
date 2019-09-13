@@ -54,9 +54,9 @@
 				</tr>
 				<tr>
 				<td><input type="button" value="完了"
-				onclick="submitAction('HomeAction')"/></td>
-				<td><input type="button" value="戻る"
 				onclick="submitAction('BuyItemConfirmAction')"/></td>
+				<td><input type="button" value="戻る"
+				onclick="submitAction('HomeAction')"/></td>
 				</tr>
 				</s:form>
 				</div>
