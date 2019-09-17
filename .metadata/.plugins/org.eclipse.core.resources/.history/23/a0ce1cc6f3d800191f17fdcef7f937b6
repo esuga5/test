@@ -1,0 +1,5 @@
+
+public class List {
+
+	Person person=new Preson(sato,28)
+}

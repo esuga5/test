@@ -1,0 +1,8 @@
+
+public class List {
+
+public static void main(String[] args) {
+
+	Person person=new Person(sato,28)
+}
+}

@@ -112,3 +112,10 @@
 0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:06:32 +0900] "POST /ecsite/HomeAction.action HTTP/1.1" 200 1273
 0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:06:38 +0900] "POST /ecsite/LoginAction.action HTTP/1.1" 200 1702
 0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:06:43 +0900] "POST /ecsite/BuyItemAction.action HTTP/1.1" 200 1563
+127.0.0.1 - - [13/Sep/2019:14:26:28 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:26:30 +0900] "GET /ecsite/ HTTP/1.1" 200 700
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:26:34 +0900] "POST /ecsite/HomeAction.action HTTP/1.1" 200 1702
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:26:41 +0900] "POST /ecsite/BuyItemAction.action HTTP/1.1" 200 1442
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:27:10 +0900] "POST /ecsite/LoginAction.action HTTP/1.1" 200 1702
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:27:16 +0900] "POST /ecsite/BuyItemAction.action HTTP/1.1" 200 1442
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:41:08 +0900] "GET /ecsite/ HTTP/1.1" 200 700

@@ -1,0 +1,6 @@
+
+public class MapPrectice {
+
+	Map<String,Person> personMap=new Map<String,Person>;
+
+}

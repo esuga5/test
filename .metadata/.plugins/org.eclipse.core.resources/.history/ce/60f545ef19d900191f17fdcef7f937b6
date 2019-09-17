@@ -1,0 +1,12 @@
+import java.util.HashMap;
+
+public class MapPrectice {
+
+	HashMap<String,Person> personMap=new HashMap<String,Person>();
+	Person sato=new Person("sato",28);
+	Person monzen=new Person("monzen",22);
+	Person suzuki=new Person("suzuki",31);
+
+	personMap.put();
+
+}

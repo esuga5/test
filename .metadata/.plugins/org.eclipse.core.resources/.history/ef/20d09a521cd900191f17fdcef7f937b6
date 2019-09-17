@@ -1,0 +1,17 @@
+import java.util.HashMap;
+
+public class MapPractice {
+
+	public static void main(String[] args) {
+
+
+
+	HashMap<String,Person> personMap=new HashMap<String,Person>();
+	Person sato=new Person("sato",28);
+
+
+	personMap.put("佐藤",sato);
+
+}
+
+}

@@ -1,0 +1,8 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapPrectice {
+
+	Map<String,Person> personMap=new HashMap<String,Person>();
+
+}
